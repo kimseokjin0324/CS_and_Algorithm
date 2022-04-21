@@ -1,4 +1,4 @@
-package backjoon.p11659;
+package backjoon.p11720;
 
 
 import java.io.BufferedReader;
@@ -17,7 +17,7 @@ import java.io.InputStreamReader;
  * 입력으로 주어진 숫자 N개의 합을 출력한다.
  * 숫자의 개수가 100까지 -> int형은 같은 숫자형 안됨
  */
-public class p11659 {
+public class p11720 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int N = Integer.parseInt(br.readLine());
