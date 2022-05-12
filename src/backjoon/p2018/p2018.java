@@ -1,4 +1,4 @@
-package backjoon;
+package backjoon.p2018;
 
 import java.util.Scanner;
 
